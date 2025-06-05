@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES5",                       // Define a versão do JavaScript de saída
+    "strict": true,                        // Habilita checagens de tipo mais rigorosas
+    "outDir": "dist",                      // Pasta de saída para os arquivos compilados
+    "rootDir": "ts",                       // Define a pasta de origem dos arquivos TypeScript
+    "forceConsistentCasingInFileNames": true // Garante consistência de maiúsculas/minúsculas nos nomes dos arquivos
+  }
+}
